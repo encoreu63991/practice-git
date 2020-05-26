@@ -1,3 +1,3 @@
 # practive-git
 
-GIT 練習中~
+GIT Practice~
