@@ -1,3 +1,3 @@
-# practive-git
+# practice-git
 
 GIT Practice~
